@@ -3,11 +3,11 @@
   "description": "Skyscanner community driven travel feed",
   "repository": "https://github.com/Rmcnairn/sample-project.git",
   "logo": "http://www.telescopeapp.org/images/logo.png",
-  "keywords": ["meteor", "social", "community"],
+  "keywords": ["skyscanner", "travel", "community"],
   "env": {
     "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
     "ROOT_URL": {
-      "description": "Skyscanner Travel feed"
+      "description": "Skyscanner Travel Feed"
     }
   },
   "addons": [
